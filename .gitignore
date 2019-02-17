@@ -1,2 +1,15 @@
 *.class
 *.log
+*-shim.sbt
+*~
+
+.#*
+.*.swp
+.DS_Store
+.cache
+.classpath
+.idea
+.project
+.scalastyle
+
+docs/*.pdf

@@ -1,0 +1,8 @@
+digraph contract {
+    node [shape=plaintext];
+    { rank = same; "repositoryCloned"; }
+
+    node [shape=ellipse];
+    repositoryCloned -> RENAMED [label="EditBuildConfig", fontsize=11];
+
+}
